@@ -1,2 +1,2 @@
 # node-cli-tool
-Execute commands on Command LIne using Node
+Execute commands on Command Line using Node
